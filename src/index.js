@@ -1,5 +1,5 @@
 import p5 from "p5";
-import Brush from "./brush";
+
 
 // these are the variables you can use as inputs to your algorithms
 console.log(fxhash)   // the 64 chars hex number fed to your algorithm
