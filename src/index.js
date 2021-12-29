@@ -23,6 +23,7 @@ let sketch = function (p5) {
         p5.createCanvas(WIDTH, WIDTH); // Size must be the first statement
         p5.frameRate(30);
         p5.background("#f1f1e6");
+        createGUI();
     };
 
     p5.draw = function () {
